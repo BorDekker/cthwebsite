@@ -1,3 +1,1 @@
-# (file:///C:/Users/borde/f1m1/pvaardig/chtwebsite/web/index.html)
-
-## (file:///C:/Users/borde/f1m1/pvaardig/chtwebsite/web/cheatsheet.html)
+# <http://32562.hosts1.ma-cloud.nl/web/>
